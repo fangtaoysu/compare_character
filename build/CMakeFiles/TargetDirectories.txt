@@ -1,0 +1,3 @@
+/home/fangtao/compare_character/build/CMakeFiles/executable.dir
+/home/fangtao/compare_character/build/CMakeFiles/edit_cache.dir
+/home/fangtao/compare_character/build/CMakeFiles/rebuild_cache.dir
