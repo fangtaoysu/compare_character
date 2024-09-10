@@ -1,0 +1,8 @@
+Package: compare-character
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3, tkinter
+Maintainer: fangtao <18394604239@example.com>
+Description: compare two part texts or files.
